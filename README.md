@@ -1,5 +1,5 @@
 # EVL
-Python implementation of the paper "Modeling Extreme Events in Time Series Prediction", with some modifications.
+Python implementation of the paper "Modeling Extreme Events in Time Series Prediction", with some modifications, not original codes.
 
 Implemented with tensorflow-
 GPU-2.3.0 
