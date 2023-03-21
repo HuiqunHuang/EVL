@@ -5,6 +5,6 @@ Implemented with tensorflow-
 GPU-2.3.0 
 
 ## Citation
-{% reference huang2021multi --file /References.bib %}
-{% reference ding2019modeling --file /References.bib %}
+{% reference huang2021multi --file https://github.com/HuiqunHuang/EVL/blob/main/References.bib %}
+{% reference ding2019modeling --file https://github.com/HuiqunHuang/EVL/blob/main/References.bib %}
 
