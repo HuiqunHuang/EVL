@@ -5,20 +5,7 @@ Implemented with tensorflow-
 GPU-2.3.0 
 
 ## Citation
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@inproceedings{ding2019modeling,
-  title={Modeling extreme events in time series prediction},
-  author={Ding, Daizong and Zhang, Mi and Pan, Xudong and Yang, Min and He, Xiangnan},
-  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1114--1122},
-  year={2019}
-}"><pre class="notranslate"><code>@inproceedings{ding2019modeling,
-  title={Modeling extreme events in time series prediction},
-  author={Ding, Daizong and Zhang, Mi and Pan, Xudong and Yang, Min and He, Xiangnan},
-  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1114--1122},
-  year={2019}
-}
-</code></pre></div>
+If you found this repository useful, please consider citing our work and the original paper of EVL:
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@article{huang2021multi,
   title={Multi-Head Spatio-Temporal Attention Mechanism for Urban Anomaly Event Prediction},
@@ -40,4 +27,20 @@ GPU-2.3.0
   publisher={ACM New York, NY, USA}
 }
 </code></pre></div>
+
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@inproceedings{ding2019modeling,
+  title={Modeling extreme events in time series prediction},
+  author={Ding, Daizong and Zhang, Mi and Pan, Xudong and Yang, Min and He, Xiangnan},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1114--1122},
+  year={2019}
+}"><pre class="notranslate"><code>@inproceedings{ding2019modeling,
+  title={Modeling extreme events in time series prediction},
+  author={Ding, Daizong and Zhang, Mi and Pan, Xudong and Yang, Min and He, Xiangnan},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1114--1122},
+  year={2019}
+}
+</code></pre></div>
+
 
