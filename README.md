@@ -3,3 +3,6 @@ Python implementation of the paper "Modeling Extreme Events in Time Series Predi
 
 Implemented with tensorflow-
 GPU-2.3.0 
+
+## Citation
+
