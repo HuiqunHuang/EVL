@@ -5,4 +5,6 @@ Implemented with tensorflow-
 GPU-2.3.0 
 
 ## Citation
+{% reference huang2021multi %}
+{% reference ding2019modeling %}
 
