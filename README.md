@@ -10,7 +10,7 @@ Python implementation of paper "Modeling Extreme Events in Time Series Predictio
 - CUDA 10.1
 - CuDNN 7.6
 
-## Citation
+## Citations
 If you found this repository useful, please consider citing our work and the original paper of EVL:
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@article{huang2021multi,
