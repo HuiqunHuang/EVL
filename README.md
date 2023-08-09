@@ -10,6 +10,9 @@ Python implementation of paper "Modeling Extreme Events in Time Series Predictio
 - CUDA 10.1
 - CuDNN 7.6
 
+## Model Training & Evaluation
+python MainPredictionFunction/Chicago_EVL_Main.py
+
 ## Citations
 If you found this repository useful, please consider citing our work and the original paper of EVL:
 
