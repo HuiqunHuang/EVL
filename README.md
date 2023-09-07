@@ -14,7 +14,7 @@ Python implementation of paper "Modeling Extreme Events in Time Series Predictio
 python MainPredictionFunction/Chicago_EVL_Main.py
 
 ## Citations
-If you found this repository useful, please consider citing our work and the original paper of EVL:
+If you were using our codes or found this repository useful, please consider citing our work:
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@article{huang2021multi,
   title={Multi-Head Spatio-Temporal Attention Mechanism for Urban Anomaly Event Prediction},
@@ -34,21 +34,6 @@ If you found this repository useful, please consider citing our work and the ori
   pages={1--21},
   year={2021},
   publisher={ACM New York, NY, USA}
-}
-</code></pre></div>
-
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@inproceedings{ding2019modeling,
-  title={Modeling extreme events in time series prediction},
-  author={Ding, Daizong and Zhang, Mi and Pan, Xudong and Yang, Min and He, Xiangnan},
-  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1114--1122},
-  year={2019}
-}"><pre class="notranslate"><code>@inproceedings{ding2019modeling,
-  title={Modeling extreme events in time series prediction},
-  author={Ding, Daizong and Zhang, Mi and Pan, Xudong and Yang, Min and He, Xiangnan},
-  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1114--1122},
-  year={2019}
 }
 </code></pre></div>
 
