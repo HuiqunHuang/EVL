@@ -1,5 +1,8 @@
 # EVL
-Python implementation of paper "Modeling Extreme Events in Time Series Prediction", with some modifications, not official codes.
+
+## Introduction
+This repo is the personal Python implementation of paper "Modeling Extreme Events in Time Series Prediction", [<a href="https://dl.acm.org/doi/10.1145/3292500.3330896">paper</a>], with some modifications, not official codes.
+
 
 ## Environment and Dependencies
 - Python 3.6
